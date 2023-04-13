@@ -1,0 +1,39 @@
+body {
+    margin-top: auto;
+
+    color:#00235B;
+  }
+
+  .intro{
+
+     margin-left: auto;
+     padding-left: 10px;
+     padding-right: 10px;
+     padding-top: 20px;
+     padding-bottom: 30px;
+  }
+  
+  .list-section {
+    margin: 0 0 0 10%;
+  }
+  
+  .text-center{
+
+     text-align: center;
+
+  }
+
+  #bottom_text {
+    font-family:helvetica;
+    font-size:1.2em;
+  }
+  
+  .jumbotron {
+    background-color:#C7E9B0;
+  }
+
+  #scoob {
+    color:black;
+    font-size:50px;
+    text-decoration:underline;
+  }
